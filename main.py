@@ -149,7 +149,6 @@ class PremiumWeatherApp:
         }}
 
         body, #root, [data-testid="stAppViewContainer"], [data-testid="stAppViewContainer"] > .main {{
-            background-image: url("data:image/png;base64,{img}") !important;
             background-size: cover !important;
             background-position: center center !important;
             background-repeat: no-repeat !important;
