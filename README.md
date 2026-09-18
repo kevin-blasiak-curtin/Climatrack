@@ -10,7 +10,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
   </div>
 
-## 🌦️ Your AI-Powered Weather Intelligence Platform
+## 🌦️ Your Weather Intelligence Platform
 
 **Climatrack** is a world-class, AI-powered weather intelligence platform built with **Python** and **Streamlit**. It offers a rich, interactive user interface for accessing real-time global weather data, advanced analytics, and premium visualisations, moving beyond simple forecasts to provide deep, actionable insights.
 
